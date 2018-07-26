@@ -88,7 +88,7 @@ class App extends Component {
             />
           </div>
         </div>
-        {this.state.data && this.state.searchTerm.length != 0 ? (
+        {this.state.data && this.state.searchTerm.length !== 0 ? (
           <div className="row">
             <div className="col" id="gifCol0">
               {holder ? holder[0] : ""}
