@@ -1,0 +1,9 @@
+img {
+	display: inline !important;
+	width: 100%;
+	vertical-align: top;
+	height: auto;
+	top: 0;
+	left: 0;
+	padding: 0.25em;
+}
